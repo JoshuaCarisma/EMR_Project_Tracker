@@ -64,15 +64,15 @@ Built in **Power BI** and backed by **Excel**, this dashboard includes:
 
 ## Project Learnings
 
-✔ Applied PMP lifecycle structure to healthcare IT simulation  
-✔ Visualized stakeholder-aligned reporting for compliance and ops  
-✔ Built lean but complete MVP within 10 hours  
-✔ Demonstrated ability to translate strategy into actionable dashboards
+- Applied PMP lifecycle structure to healthcare IT simulation  
+- Visualized stakeholder-aligned reporting for compliance and ops  
+- Built lean but complete MVP within 10 hours  
+- Demonstrated ability to translate strategy into actionable dashboards
 
 ---
 
 
-## 🔗 About the Creator
+## About the Creator
 
 **Joshua Carisma**  
 Technical Project Manager | Health Informatics | PMP®, CSM  
