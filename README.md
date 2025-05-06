@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Summary
+## Project Summary
 
 This project simulates the role of a Technical Project Manager overseeing a high-priority EMR (Electronic Medical Record) module rollout at *Gotham General Hospital*, the city’s busiest trauma and research center. Using Excel, Power BI, and simulated data, this dashboard provides real-time visibility into the project lifecycle — tracking milestones, risk status, training progress, budget, and stakeholder alignment.
 
@@ -12,7 +12,7 @@ Built to demonstrate real-world healthcare PMO practices, data visualization pro
 
 ---
 
-## 🦸 Gotham Backstory (Fictional Setting)
+## Gotham Backstory (Fictional Setting)
 
 Gotham General Hospital is modernizing its EMR system as part of the **Mayor’s Emergency Health Initiative**. The project is urgent: increased patient loads, outdated paper processes, and new compliance mandates require swift digital transformation.
 
@@ -28,20 +28,20 @@ Gotham General Hospital is modernizing its EMR system as part of the **Mayor’s
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 Built in **Power BI** and backed by **Excel**, this dashboard includes:
 
-- 📆 **Gantt-style Timeline** with task status and milestones  
-- ⚠️ **Risk Register** with RAG status and mitigation actions  
-- 💰 **Budget Tracker** showing burn vs plan  
-- 👥 **Training Log** with % completion by role  
-- 🧭 **Executive View** for stakeholders like COO and Compliance  
-- 🔁 **Refreshable Data** via OneDrive (simulated)
+- **Gantt-style Timeline** with task status and milestones  
+- **Risk Register** with RAG status and mitigation actions  
+- **Budget Tracker** showing burn vs plan  
+- **Training Log** with % completion by role  
+- **Executive View** for stakeholders like COO and Compliance  
+- **Refreshable Data** via OneDrive (simulated)
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool        | Use Case |
 |-------------|----------|
@@ -53,16 +53,16 @@ Built in **Power BI** and backed by **Excel**, this dashboard includes:
 
 ---
 
-## 📁 Project Files
+## Project Files
 
-- `HealthIT_ProjectTracker_Starter.xlsx`: Simulated dataset
+- `HealthIT_ProjectTracker.xlsx`: Simulated dataset
 - `HealthIT_Dashboard.pbix`: Power BI file with interactive visuals
 - `README.md`: This file — project summary and context
 - `Screenshots/`: Dashboard preview images for recruiters
 
 ---
 
-## 🧠 Project Learnings
+## Project Learnings
 
 ✔ Applied PMP lifecycle structure to healthcare IT simulation  
 ✔ Visualized stakeholder-aligned reporting for compliance and ops  
@@ -71,11 +71,6 @@ Built in **Power BI** and backed by **Excel**, this dashboard includes:
 
 ---
 
-## 📣 LinkedIn Summary Snippet (Optional Use)
-
-> In a city of chaos, even health IT needs a hero. I led Gotham General Hospital through a simulated EMR upgrade — managing timeline, risks, budget, training, and stakeholder coordination — using Power BI and Excel. Check out the dashboard I built in just 2 days.
-
----
 
 ## 🔗 About the Creator
 
