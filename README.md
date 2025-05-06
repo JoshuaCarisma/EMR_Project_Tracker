@@ -20,7 +20,7 @@ Gotham General Hospital is modernizing its EMR system as part of the **Mayor’s
 
 | Name              | Role                   | Goal |
 |-------------------|------------------------|------|
-| Dr. Leslie Thompkins | Clinical Director    | Ensure continuity of care and clinical usability |
+| Dr. Harleen Quinzel | Clinical Director    | Ensure continuity of care and clinical usability |
 | Lucius Fox         | IT Manager             | Oversee secure EMR integration |
 | Barbara Gordon     | Training Lead          | Train 250+ staff across departments |
 | Harvey Dent        | Compliance Officer     | Certify HIPAA alignment |
